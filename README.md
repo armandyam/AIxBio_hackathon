@@ -3,7 +3,7 @@
 Submission to the [Apart Research AIxBio Hackathon](https://apartresearch.com/sprints/aixbio-hackathon-2026-04-24-to-2026-04-26) (2026-04-24 to 2026-04-26).
 
 Paper: [`AIxBio_paper.pdf`](AIxBio_paper.pdf)
-
+Video: [Loom](https://www.loom.com/share/e0235ab794014e16ba5865966bd89522)
 ## TL;DR
 
 Genomic foundation models (GFMs) are state-of-the-art on sequence classification but are rarely co-evaluated on adversarial robustness, compute cost, and biological plausibility. Under random single-nucleotide substitutions — a conservative, biologically-grounded attack — we observe a sizeable accuracy–robustness gap:
