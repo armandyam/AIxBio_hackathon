@@ -88,7 +88,3 @@ GenoArmory's BPE-token-level attacks systematically violate fixed-length gene st
 ## Limitations
 
 Single task (promoter classification on GUE); random SNV is a weak attack regime so all ASRs are lower bounds; the 500-sequence attack budget yields wide Wilson CIs at low ASR (e.g. 0.4–2.3% for XGBoost compositional); we do not apply adversarial training to the classical baselines; transfer-learning regimes are not evaluated; the decision-boundary reading is a working hypothesis, not a tested mechanism.
-
-## Citation
-
-Anonymous submission, NeurIPS 2026 (under review). See [`AIxBio_paper.pdf`](AIxBio_paper.pdf) for the full text and references.
